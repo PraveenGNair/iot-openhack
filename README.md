@@ -14,13 +14,11 @@ A hackathon using OpenShift environment which was around IOT. Below are the obje
 * Java 8
 * Spring Boot
 * Apache Kafka
-* Spring Cloud Dataflow
-* Apache Spark / Apache Apex
-* Apache Geode
+* Hazelcast
+* Apache Spark 
 * Cassandra
-* PostgresSQL
-* Google MAP API
 * WebSockets
+* JQuery
 * Open Shift / Azure (Tomcat)
 
 
